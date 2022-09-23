@@ -1,0 +1,4 @@
+.idea
+node_modules
+public/php-web*
+public/bundle.js
